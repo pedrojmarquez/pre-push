@@ -1,7 +1,7 @@
 /**
  * Prueba de API
  * @module API
- * @author Profesor <mi.email@iescastelar.com>
+ * @author Pedro Javier Marquez Fabian <pjmarquezf01@iescastelar.com>
  */
  
 /** API Class description */

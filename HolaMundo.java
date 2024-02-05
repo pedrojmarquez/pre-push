@@ -5,9 +5,9 @@
  * codificación correcta UTF-8: á é í ó ú ñ Ñ <br />
  *
  * @version 1.0 <br />
- * @author Luis Ferreira <br />
+ * @author PedroJavier Marquez Fabian <br />
  * {@literal descripción literal} <br />
- * @since 14 de febrero de 2023 <br />
+ * @since 3 de febrero de 2024 <br />
  *
  */
 public class HolaMundo {
